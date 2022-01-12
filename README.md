@@ -21,6 +21,6 @@
   <a href = "mailto:salgonger1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artificialintelligence-researcher-salvadorgonzalezgerpe/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Salva5297/Salva5297/output/github-contribution-grid-snake.svg)
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </div>
